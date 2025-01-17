@@ -4,6 +4,11 @@
     "height": 600,
     "caption": "MathGen"
   },
+
+  "style": {
+    "bg": [0, 0, 0]
+  },
+
   "for_devs": {
     "print_debug": true
   }
